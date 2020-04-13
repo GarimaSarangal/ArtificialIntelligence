@@ -1,0 +1,7 @@
+1. to create graph in file creategrapgh.py i hvae used networkx module and to run the program this is required.
+
+2. Please enter below commands to run the python files
+    1. Python Search.py DFS 0/1 source destination - DFS will not consider what heuristic value you put.
+    2. Python Search.py A* 0/1 source destination
+    3. Python Search.py rbfs 0/1 source destination
+
